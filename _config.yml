@@ -105,8 +105,9 @@ friends: [
     {
         title: "曹真的博客",
         href: "https://hellogod.cn"
-    },{
+    },
+    {
         title: "一时打卡",
-        href:"https://group.hellogod.cn/#/check"
+        href: "https://group.hellogod.cn/#/check"
     }
 ]
