@@ -5,7 +5,7 @@
 
 Hi, I am *@xiaoxinganling*, a student of Software Engineer and Computer Science and Technology. 
 
-I studied Software Engineer and graduated from [WHU](https://www.whu.edu.cn/) by 2019, and am studying Computer Science Technology at [NJU](https://www.whu.edu.cn/) from 2019. Now I am interested in JVM, distributed system, distributed computing and machine learning.
+I studied Software Engineer and graduated from [WHU](https://www.whu.edu.cn/) by 2019, and am studying Computer Science and Technology at [NJU](https://www.whu.edu.cn/) from 2019. Now I am interested in JVM, distributed system, distributed computing and machine learning.
 
 
 ##### Links
