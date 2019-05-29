@@ -1,7 +1,7 @@
 # Site settings
-title: xiaoxinganling Blog
-SEOTitle: 小兴安岭的博客 | Xiaoxinganling Blog
-header-img: img/home-bg.jpg
+title: MX Blog
+SEOTitle: 小兴安岭的博客 | Xiaoxinganling's Blog
+header-img: img/home-bg.jpg # change your own pic
 email: mxzhou1998@gmail.com
 description: "关于程序设计、编程语言、以及分布式学习的博客，拒绝对时间的无休止浪费。"
 keyword: "xiaoxinganling, 分布式, JVM, 机器学习"
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+# disqus_username: hux
 
 # Netease settings
 netease_comment: false
