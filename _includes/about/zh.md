@@ -1,31 +1,40 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 写写代码，打打比赛，看看文章  
+> 一个底层群员，一个想爬上顶端的底层群员。
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+我是小兴安岭，为什么用这样一个id呢？可能是我对自己的能力不够自信，没法像大佬一样果断地使用自己的真名。
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。目前在 [Facebook](https://www.facebook.com/) 写 [Reason](https://reasonml.github.io/) 与 [Messenger.com](http://messenger.com/) ，曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+说来惭愧，即将进入研究生的我还是一事无成。因此，我想使用个人博客这样的方式督促自己不断进步，至少能够成为一个不让自己后悔的人。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](https://zhuanlan.zhihu.com/p/21280918)。 
+我的研究方向是JVM，分布式系统，分布式计算以及大家都爱的机器学习。目前正在研究的课题也是麻烦重重。2019/5/29，无所事事的我决定开启我的个人博客(博客的搭建来自于[黄玄大佬](https://github.com/Huxpro/huxpro.github.io))。我想看看三年后的自己究竟会变成怎样？是一事无成，还是有所建树呢？
 
+##### Links(一些神秘链接)
 
-##### Talks
+###### JVM
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
+- [高级语言虚拟机及编译相关](https://rednaxelafx.iteye.com/blog/362738)
+- [R大知乎回答导航](https://zhuanlan.zhihu.com/p/25042028)
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+###### Coding
+
+- [算法刷题经验](https://www.liuchuo.net/)
+
+###### 分布式系统
+
+- [MIT 6.824 Distributed Systems](https://pdos.lcs.mit.edu/6.824/)
+- [MIT 6.824 Distributed Systems 翻译](https://github.com/feixiao/Distributed-Systems)
+- [分布式总结](https://github.com/zhenlohuang/awesome-distributed-systems)
+- [CMU Advanced and Distributed Operating Systems](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15712-s12/www/)
+###### 云计算
+
+- [Cloud Computing](https://www.coursera.org/learn/cloud-computing)
+
+###### 数据库
+- [Stanford Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
+- [CMU DATABASE SYSTEMS](https://15445.courses.cs.cmu.edu/fall2017/)
+- [CMU Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2017/)
+
+###### 机器学习
+- [李宏毅机器学习][http://speech.ee.ntu.edu.tw/~tlkagk/courses.html]
+
+###### 其他
+- [本网站的github地址](https://xiaoxinganling.github.io/)
