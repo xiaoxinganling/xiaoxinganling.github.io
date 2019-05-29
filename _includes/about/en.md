@@ -12,7 +12,8 @@ I studied Software Engineer and graduated from [WHU](https://www.whu.edu.cn/) by
 
 ###### JVM
 
--[High-level language VM](https://rednaxelafx.iteye.com/blog/362738)
+- [High-level language VM](https://rednaxelafx.iteye.com/blog/362738)
+
 - [Zhihu answers of RednaxelaFX](https://zhuanlan.zhihu.com/p/25042028)
 
 ###### Coding
