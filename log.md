@@ -4,6 +4,14 @@
 - change  _includes/about/zh.md
 - change _includes/about/en.md
 - change _config.yml()
+- delete portfolio
+- change posts/footer.html & head.html & friends.html
+- change _layouts/page.html & index.html
+
 
 ###### 2019.5.30
+- add a blog introducing blog's building with keywords
+
+###### 2019.5.31
+
 
