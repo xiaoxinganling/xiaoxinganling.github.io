@@ -12,7 +12,7 @@ tags:
 ---
 
 > “Do not despise the bottom rungs in the ascent to greatness.”
-> "不要小瞧通往伟大之路的最底层阶梯。“
+ "不要小瞧通往伟大之路的最底层阶梯。“
 
 
 ## 前言
@@ -29,7 +29,7 @@ tags:
 
 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/)
 
-[Hux](https://github.com/Huxpro)在Clean Blog的基础上对加载速度和样式进行了一定的优化，详情可见[Hux的第一篇文档](<https://github.com/Huxpro/huxpro.github.io/blob/master/_posts/2014-01-29-hello-2015.markdown> )。
+[Hux](https://github.com/Huxpro)在Clean Blog的基础上对加载速度和样式进行了一定的优化，详情可见[Hux的第一篇文档](https://github.com/Huxpro/huxpro.github.io/blob/master/_posts/2014-01-29-hello-2015.markdown)。
 
 我采取的方式是 fork [Hux的博客模板](https://github.com/Huxpro/huxpro.github.io) 后将一些特定的内容修改并删除，这些操作可以在[对模板的更改](https://github.com/xiaoxinganling/xiaoxinganling.github.io/blob/master/log.md)中2019.5.29的log查到。除此之外，[Hux](https://github.com/Huxpro)在[此处](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)提供了更好的搭建方法，此处不再赘述。
 
