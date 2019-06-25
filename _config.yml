@@ -62,6 +62,17 @@ kramdown:
 # Disqus settings
 #disqus_username: hux
 
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: d5f9ca15d53888fac814                            #生成的clientID
+  clientSecret: c648d4ffa831de5aab2a8f504d711e07d0ed9b5b    #生成的clientSecret
+  repo: xiaoxinganling.github.io    #仓库名称
+  owner: xiaoxinganling    #github用户名
+  admin: xiaoxinganling
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
 # Netease settings
 netease_comment: false
 

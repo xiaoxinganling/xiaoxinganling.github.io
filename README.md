@@ -2,7 +2,7 @@
 
 ### [View mx's log at here;](https://github.com/xiaoxinganling/xiaoxinganling.github.io/blob/master/log.md)
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+#### [View Live Hux Blog &rarr;](https://huangxuan.me)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
