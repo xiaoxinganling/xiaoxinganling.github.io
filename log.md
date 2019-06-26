@@ -11,7 +11,7 @@
 
 ###### 2019.5.30
 - add a blog introducing blog's building with keywords
-- TODO: add comment by QBY(my be a few days later)
+- TODO: add comment by QBY(my be a few days later) OK
 - TODO: pic bed(maybe?)
 - TODO: preview website locally(can debug)
 
