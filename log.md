@@ -11,8 +11,8 @@
 
 ###### 2019.5.30
 - add a blog introducing blog's building with keywords
-- TODO: add comment by QBY(my be a few days later) OK
-- TODO: pic bed(maybe?)
+- TODO: add comment by QBY(my be a few days later) √
+- *TODO: pic bed(maybe?)  waiting for review*
 - TODO: preview website locally(can debug)
 
 ###### 2019.5.31
@@ -31,3 +31,5 @@
 
 ###### 2019.6.25
 - TODO: add Google Analytics
+- TODO: remove the # of every article
+- TODO: add email
