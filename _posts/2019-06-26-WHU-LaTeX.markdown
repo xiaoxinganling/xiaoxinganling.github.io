@@ -1,0 +1,67 @@
+---
+layout:     post
+title:      "武汉大学计算机学院实验报告LaTeX模板"
+subtitle:   " \"写在离珈的第2天\""
+date:       2019-06-26 12:00:00
+author:     "小兴安岭"
+header-img: "img/WHUExperiment1.jpg"
+catalog: true
+tags:
+    - LaTeX
+    - 作业
+---
+
+> “Do you want to know who you are? Don't ask. Act! Action will delineate and define you.”
+
+## 前言
+
+随着毕业答辩的结束，毕业季也开始拉开帷幕。作为一名一穷二白的学生党，毕业旅行所需的开销从何而来呢？思考片刻，我决定通过帮学弟学妹们写代码相关的大作业赚取外快。不写不知道，写了才发现下一届的代码作业所需的实验报告竟然要按照毕业论文的格式进行书写。刚刚使用LaTeX写完毕业论文的我灵机一动，毕业论文模板拿过来改一改不就正好变成了实验报告吗？废话少说，这里介绍一下[如何快速上手](#start)以及做出的[修改](#edit)。
+
+<p id = "start"></p>
+---
+
+## Quick Start
+
+- 模板可以从[此处](https://github.com/xiaoxinganling/WHUExperiment)获取；
+
+- 获取模板后需要下载[TeXLive环境](https://www.tug.org/texlive/)，由于笔者使用的是Windows电脑，Mac和Linux选手也可以在[LaTeX官网](https://www.latex-project.org/)下载相应的编译环境；
+
+- 下载完毕后双击点开.tex文件，可得到下图所示：
+![编译环境准备](http://ptozedwq6.bkt.clouddn.com/FkSNh-m56Kw2qGpiFSf9zs_npVoH)
+
+- 在左侧窗口的左上角选择XeLaTeX进行编译可以得到一个pdf，pdf里记录了模板的使用方法，其中包括字号字体的调节、常用宏包、引用、图、参考文献以及表格的使用；
+
+- 找到.tex文件中的注释 *%此处书写正文* 和 *%此处结束正文* ，在这两段注释中间书写自己的实验报告内容；
+
+- 你可以模仿 .tex文件中已有的命令，也可以查询自己想书写的命令，常用的命令如 \\chapter等在 .tex文件中均有说明；
+
+- 参考文献和附录的书写可以按照模板提供的内容进行书写；
+
+- .cls文件中的样式已经调节好，如果实验报告规范发生变化可以修改此文件中的内容对其进行更改。
+
+
+---
+
+<p id = "edit"></p>
+---
+
+## 修改内容
+
+对于使用者而言，修改内容无需深入了解，笔者只是记录其原理。在原模板的基础上，笔者做出了如下更改：
+
+- 删除了正文前的罗马数字页码；
+
+- 修改了封面的排版；(*TODO: 团队实验报告的模板有所不同，更新待续......*)；
+
+- 增加 **结论** 这一目录项；
+
+- 增加了 **教师评语评分** 内容；
+
+- 根据规范修改了正文里英文的格式(从Times New Roman 更改为 宋体)。
+
+---
+
+## 后记
+
+使用过程中如果碰到其他问题欢迎联系作者 mxzhou1998@gmail.com。
+
