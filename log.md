@@ -12,24 +12,24 @@
 ###### 2019.5.30
 - add a blog introducing blog's building with keywords
 - TODO: add comment by QBY(my be a few days later) √
-- *TODO: pic bed(maybe?)  waiting for review*
-- TODO: preview website locally(can debug)
+- TODO: pic bed(maybe?)  waiting for review √
+- TODO: preview website locally(can debug) √
 
 ###### 2019.5.31
 
-- TODO: write Spark 1.3's shuffle
-- TODO: write KMP
-- TODO: 介绍管程？
+- *TODO: write Spark 1.3's shuffle*
+- *TODO: write KMP*
+- *TODO: 介绍管程？*
 
 ###### 2019.6.1
 
-- *TODO: children's day*
+- *TODO: children's day* √
 
 ###### 2019.6.2
 
-- TODO: LeetCode weekly contest: 下次会做的更好(嗯，一定)
+- *TODO: LeetCode weekly contest: 下次会做的更好(嗯，一定)*
 
 ###### 2019.6.25
-- TODO: add Google Analytics
-- TODO: remove the # of every article
-- TODO: add email
+- TODO: add Google Analytics √
+- TODO: remove the # of every article √
+- TODO: add email √
