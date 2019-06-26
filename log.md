@@ -33,3 +33,7 @@
 - TODO: add Google Analytics √
 - TODO: remove the # of every article √
 - TODO: add email √
+
+##### 2019.6.26 
+
+- TODO: add second blog && test terminal
