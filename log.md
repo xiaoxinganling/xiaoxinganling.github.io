@@ -37,3 +37,4 @@
 ##### 2019.6.26 
 
 - TODO: add second blog && test terminal
+- TODO: add new terminal && add KMP
