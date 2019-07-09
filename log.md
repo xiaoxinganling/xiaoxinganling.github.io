@@ -37,3 +37,9 @@
 ###### 2019.6.26 
 
 - TODO: add second blog && test terminal √
+- TODO: add second blog && test terminal
+- TODO: add new terminal && add KMP
+- - [ ] add container's principle
+  - [ ] add coflow
+  - [ ] add Djkstra
+  - [ ] add sieve of Eratosthenes
