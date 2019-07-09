@@ -34,6 +34,6 @@
 - TODO: remove the # of every article √
 - TODO: add email √
 
-##### 2019.6.26 
+###### 2019.6.26 
 
-- TODO: add second blog && test terminal
+- TODO: add second blog && test terminal √
