@@ -1,4 +1,4 @@
-# Rerence from Hux Blog
+# Reference from Hux Blog
 
 ### [View mx's log at here;](https://github.com/xiaoxinganling/xiaoxinganling.github.io/blob/master/log.md)
 
