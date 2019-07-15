@@ -114,7 +114,28 @@ KMP算法一直是字符串匹配中经常提到的算法，它能避免不必�
 
 ### 部分匹配表
 
-假设主串为 "bacbababaabcbab"，子串为 "abababca" 
+在介绍部分匹配表前，我想介绍一下字符串的「前缀」和「后缀」。
+
+> Prefix and suffix are special cases of substring. A prefix of a string **S** is a substring of **S** that occurs at the beginning of **S**. A suffix of a string **S** is a substring that occurs at the end of **S**.
+
+从上可知，前缀(prefix)指的是包含字符串第一个字符的所有连续子串(不包括该字符串)，后缀(suffix)指的是包含字符串最后一个字符的所有连续子串(不包括该字符串)。
+
+这么说可能有些复杂，举个例子，假设字符串 S = “abababca”，S 的所有「前缀」和「后缀」如下所示：
+
+```
+// 前缀			//后缀
+a			a
+ab			ca
+aba			bca
+abab			abca
+ababa			babca
+ababab			ababca
+abababc			bababca
+```
+
+
+
+假设主串为 “bacbababaabcbab”，子串为 “abababca” 
 
 ### 原理介绍
 
