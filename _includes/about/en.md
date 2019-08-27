@@ -42,5 +42,5 @@ I studied Software Engineer and graduated from [WHU](https://www.whu.edu.cn/) by
 ###### Others
 - [This website's github repository](https://xiaoxinganling.github.io/)
 
-
+- [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 

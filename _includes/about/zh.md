@@ -40,3 +40,4 @@
 ###### 其他
 - [本网站的github地址](https://xiaoxinganling.github.io/)
 
+- [什么是平均负载](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
