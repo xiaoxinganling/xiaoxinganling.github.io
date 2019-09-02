@@ -1,4 +1,5 @@
 # Site settings
+markdown: kramdown
 title: MX Blog
 SEOTitle: 小兴安岭的博客 | Xiaoxinganling's Blog
 header-img: img/home-bg.jpg # change your own pic
